@@ -286,11 +286,11 @@ section{
   bottom: 0;
 }
 
-.html:after{
+.uml:after{
   width: 80%;
 }
 
-.css:after{
+.html_css:after{
   width: 80%;
 }
 
